@@ -1,0 +1,28 @@
+[
+    { "id": 1, "name": "Apples (1 kg)", "price": 120 },
+    { "id": 2, "name": "Bananas (1 dozen)", "price": 40 },
+    { "id": 3, "name": "Carrots (1 kg)", "price": 50 },
+    { "id": 4, "name": "Broccoli (1 head)", "price": 80 },
+    { "id": 5, "name": "Milk (1 liter)", "price": 60 },
+    { "id": 6, "name": "Eggs (1 dozen)", "price": 80 },
+    { "id": 7, "name": "Bread (1 loaf)", "price": 35 },
+    { "id": 8, "name": "Butter (500 g)", "price": 210 },
+    { "id": 9, "name": "Cheddar Cheese (250 g)", "price": 250 },
+    { "id": 10, "name": "Orange Juice (1 liter)", "price": 120 },
+    { "id": 11, "name": "Rice (5 kg)", "price": 220 },
+    { "id": 12, "name": "Pasta (500 g)", "price": 40 },
+    { "id": 13, "name": "Tomatoes (1 kg)", "price": 60 },
+    { "id": 14, "name": "Potatoes (5 kg)", "price": 110 },
+    { "id": 15, "name": "Onions (1 kg)", "price": 35 },
+    { "id": 16, "name": "Chicken Breast (1 kg)", "price": 300 },
+    { "id": 17, "name": "Beef Mince (1 kg)", "price": 450 },
+    { "id": 18, "name": "Salmon Fillet (1 kg)", "price": 800 },
+    { "id": 19, "name": "Cooking Oil (1 liter)", "price": 180 },
+    { "id": 20, "name": "Salt (1 kg)", "price": 20 },
+    { "id": 21, "name": "Pepper (50 g)", "price": 50 },
+    { "id": 22, "name": "Sugar (1 kg)", "price": 45 },
+    { "id": 23, "name": "Flour (2 kg)", "price": 70 },
+    { "id": 24, "name": "Tea (100 bags)", "price": 150 },
+    { "id": 25, "name": "Coffee (200 g)", "price": 250 }
+  ]
+  
